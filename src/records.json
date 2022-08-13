@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "caption": "Hamidat Meedarh",
+        "image" : "./images/classrep.jpg",
+        "friend" : "70"
+    },
+    {
+        "id" : 2,
+        "caption": "Abdul Wasiu",
+        "image" : "./images/wasiu.jpg",
+        "friend" : "10"
+    },
+    {
+        "id" : 3,
+        "caption": "Daniel Uchenna",
+        "image" : "./images/daniel.jpg",
+        "friend" : "80"
+    },
+    {
+        "id" : 4,
+        "caption": "Gabby Gabby",
+        "image" : "./images/gabby.jpeg",
+        "friend" : "50"
+    },
+    {
+        "id" : 5,
+        "caption": "Mr Martins",
+        "image" : "./images/mrmartins.jpeg",
+        "friend" : "39"
+    },
+    {
+        "id" : 6,
+        "caption": "Mr Abdulrasheed",
+        "image" : "./images/mrrash.jpeg",
+        "friend" : "37"
+    },
+    {
+        "id" : 7,
+        "caption": "Mayomikun Fiki",
+        "image" : "./images/pic.jpeg",
+        "friend" : "20"
+    },
+    {
+        "id" : 8,
+        "caption": "Harrison Akunne",
+        "image" : "./images/harrison.jpg",
+        "friend" : "33"
+    }
+]

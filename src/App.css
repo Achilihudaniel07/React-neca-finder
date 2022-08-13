@@ -1,38 +1,110 @@
-.App {
-  text-align: center;
+ .App {
+  background: rgba(245, 245, 245, 0.572);
+  height: 100vh;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.content{
+  background-color: #fff;
+  box-shadow: -2px 2px 5px rgba(0, 0, 0, 0.116),2px -2px 5px rgba(0, 0, 0, 0.116);
+  width: 85%;
+  margin: 20px auto;
+  height: auto;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.comp{
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  width: 95%;
+  margin: 0 auto;
 }
-
-.App-link {
-  color: #61dafb;
+.col-2{
+  display: flex;
+  
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+input{
+  background: whitesmoke;
+  border: none;
+  height: 2.0rem;
+  width: 60%;
+  margin-left: 5px;
+  font-size: 1rem;
+  outline: none;
+}
+.search{
+  background: whitesmoke;
+  border-radius: 20px;
+  height: 37px;
+  width: 40%;
+  margin-right: 40px;
+  margin-top: 10px;
+  
+}
+.search .chan{
+  font-size: 1.1rem;
+  margin-bottom: 40px;
+}
+p{
+  margin-right: 40px;
+}
+#hy{
+  display: flex;
+  align-items: center;
+  font-size: 1.3rem;
+}
+.hyy{
+  border: 1px solid black;
+  width: 20px;
+}
+.nav-con ul{
+  display: flex;
+  justify-content: space-between;
+  width: 93%;
+}
+.nav-con ul li{
+  list-style-type: none;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 1.04rem;
+}
+.nav-con ul li:hover{
+  color: rgb(59, 59, 218);
+  cursor: pointer;
+}
+.nav-con button{
+  background: rgb(59, 59, 218);
+  width: 140px;
+  border-radius: 20px;
+  height: 5px;
+  border: none;
+  margin-left: 12px;
+}
+/* .nav-con ul .gro{
+  border: 1px solid black;
+  float: left;
+} */
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  width: 95%;
+  margin: 0 auto;
+}
+.card{
+  margin-left: 16px;
+  width: 47.2%;
+  margin-top: 40px;
+  display: flex;
+  box-shadow: -2px 2px 5px rgba(0, 0, 0, 0.116),2px -2px 5px rgba(0, 0, 0, 0.116);
+  padding: 5px;
+}
+.card  img{
+  width: 20%;
+  border-radius: 30px;
+}
+.flex{
+  display: flex;
+}
+.flexb{
+  margin-left: 20px;
+}
+.icon{
+  height: 80px;
+  font-size: 1.8rem;
 }
