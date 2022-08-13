@@ -9,17 +9,19 @@ const Card = (props) => {
                     return (
                         <div className="card" key={record.id}>
                             <div className="flex">
-                                <img src={record.image} alt = {record.caption} />
+                                <img src={record.image} alt = {record.caption} onClick = {props.onhover}/>
                                 <div className="flexb">
-                                    <h3>{record.caption}</h3>
-                                    <span>{record.friend} mutual friends </span>
+                                    <h3 >{record.name}</h3>
+                                    <span>{record.mfriends} mutual friends </span>
                                 </div>
                             </div>
                             <FaEllipsisH className="icon" />
                         </div>
                     )
                 })
+
             }
+            
         </div>
     );
 }

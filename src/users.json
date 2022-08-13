@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": " Ajibade Hamidat Abisola",
+    "image":"Pictures/Meedarh2.jpeg",
+    "mfriends":65,
+    "friends": "Abdulrasheed ",
+    "friends2": "Damos" ,
+    "location":"Osun"
+  },
+  {
+    "id": 2,
+    "name": "Abdulwasiu Saliman",
+    "image":"Pictures/Wasiu2.jpeg",
+    "mfriends":83,
+    "friends": " DanielKesh ",
+    "friends2":"Abdulsamad",
+    "location":"Oyo"
+  },
+  {
+    "id": 3,
+    "name": "Daniel Uchenna Achilihu",
+    "image":"Pictures/Daniel2.JPG",
+    "mfriends":32,
+    "friends": "IsraelOlaniyi ",
+    "friends2":"Somtoo",
+    "location":"Abia"
+  },
+  {
+    "id": 4,
+    "name": "Oluniyi Israel",
+    "image":"Pictures/OluniyiIsrael2.jpeg",
+    "mfriends":79,
+    "friends": "GabrielleAlex ", 
+    "friends2": "Martins",
+    "location":"Osun"
+  },
+  {
+    "id": 5,
+    "name": "Damos Muelji",
+    "image":"Pictures/Samad 2.jpg",
+    "mfriends":78,
+    "friends":"EbenezerAluya ",
+    "friends2":"Maryam ",
+    "location":"Jos"
+  },
+  {
+    "id": 6,
+    "name": "Maryam Suleiman",
+    "image":"Pictures/Maryam2.jpeg",
+    "mfriends":38,
+    "friends": "HamidatAjibs ",
+    "friends2":"Israel",
+    "location":"Adamawa"
+  },
+  {
+    "id": 7,
+    "name": "Rabo Abdulsamad",
+    "image":"Pictures/Samad.JPG",
+    "mfriends":91,
+    "friends": "VictorOkechukwu ",
+    "friends2":"Gabrielle",
+    "location":"Nasarawa"
+  },
+  {
+    "id": 8,
+    "name": "Momoh Abdulrasheed",
+    "image":"Pictures/Rasheed2.jpeg",
+    "mfriends":54,
+    "friends": "DamosMuelji ",
+    "friends2":"Fiki",
+    "location":"Kogi"
+  },
+  {
+    "id": 9,
+    "name": "Olaniyi Israel Olufunmi",
+    "image":"Pictures/OlaniyiIsrael2.jpeg",
+    "mfriends":98,
+    "friends": "DanielKesh ", 
+    "friends2":"Abdulwasiu",
+    "location":"Osun"
+  },
+  {
+    "id": 10,
+    "name": "Lazarus B. Umeh",
+    "image":"Pictures/lazarus.JPG",
+    "mfriends":59,
+    "friends": "DamosMuelji ",
+    "friends2":"Maryam",
+    "location":"Edo"
+  },
+  {
+    "id": 11,
+    "name": "Daubry Martins",
+    "image":"Pictures/Martins2.jpeg",
+    "mfriends":73,
+    "friends": "DanielKesh ", 
+    "friends2":" Lazarus",
+    "location":"Bayelsa"
+  },
+  {
+    "id": 12,
+    "name": "Alexander Gabrielle Khoinom",
+    "image":"Pictures/gabby2.jpeg",
+    "mfriends":67,
+    "friends": "Abdulsamad ",
+    "friends2":"Victor",
+    "location":"Kaduna"
+  },
+  {
+    "id": 13,
+    "name": "Aluya Ebenezer",
+    "image":"Pictures/Ebenezer2.jpeg",
+    "mfriends":83,
+    "friends": "Somtoochukwu ",
+    "friends2":"Hamidat",
+    "location":"Edo"
+  },
+  {
+    "id": 14,
+    "name": "Okechukwu Victor",
+    "image":"Pictures/victor2.jpeg",
+    "mfriends":95,
+    "friends": "Somtoochukwu ",
+    "friends2":"Gabrielle",
+    "location":"Enugu"
+  },
+  {
+    "id": 15,
+    "name": "Harrison Somtoochukwu ",
+    "image":"Pictures/Somtoo2.jpeg",
+    "mfriends":76,
+    "friends": "Abdulrasheed ", 
+    "friends2":"Damos",
+    "location":"Anambra"
+  },
+  {
+    "id": 16,
+    "name": "Fiki Mayomikun",
+    "image":"Pictures/lumi2.jpeg",
+    "mfriends":64,
+    "friends": "EbenezerAluya ",
+    "friends2":"Hamidat",
+    "location":"Ogun"
+  }
+]

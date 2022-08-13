@@ -9,7 +9,7 @@ const Nav = (props) => {
                 <div className="search">
                     <i className="chan"><FaSistrix /></i>
                     <input type="text" onChange={props.onchange} placeholder="Search..." />
-                    <p>{props.search}</p>
+            
                 </div>
                 <p>Friend requests</p>
                 <p>find Friends</p>
